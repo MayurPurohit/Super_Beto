@@ -1,4 +1,4 @@
-import{w as U,f as g,h as c,u as S,i as _,j as m,E as I,k as p}from"./CloudSpawner-DtX3R9sS.js";const x={name:"local-uniform-bit",vertex:{header:`
+import{w as U,f as g,h as c,u as S,i as _,j as m,E as I,k as p}from"./CloudSpawner-sV3MqKX1.js";const x={name:"local-uniform-bit",vertex:{header:`
 
             struct LocalUniforms {
                 uTransformMatrix:mat3x3<f32>,
